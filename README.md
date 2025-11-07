@@ -9,9 +9,9 @@ Wed Design Assignment 1
 <img width="1920" height="2560" alt="image" src="https://github.com/user-attachments/assets/cfa7fd34-2e15-4ffb-a00c-dd014d1ebe45" />
 <img width="1080" height="867" alt="image" src="https://github.com/user-attachments/assets/afbe6c40-a7d8-41f5-ab26-1e30b53310b1" />
 
-##Match Page Sketch And Warefram
-<img width="1080" height="867" alt="image" src="https://github.com/user-attachments/assets/f56bac69-cf43-4293-af20-35b981622ecc" />
+##Match Page Sketch And Wareframe
 <img width="1920" height="2560" alt="image" src="https://github.com/user-attachments/assets/0130fc28-b227-4d29-8b32-d2f13240d9e7" />
+<img width="1080" height="867" alt="image" src="https://github.com/user-attachments/assets/f56bac69-cf43-4293-af20-35b981622ecc" />
 
 ##About Us Page Sketch And Wareframe
 <img width="1920" height="2560" alt="image" src="https://github.com/user-attachments/assets/04ec82d5-bd02-42f8-a2a1-2590c36da32c" />
